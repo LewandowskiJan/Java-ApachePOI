@@ -1,0 +1,6 @@
+﻿path to order directory=C:\Users\JL\Desktop\excel\testData\TestDirectory
+password=test123
+path to order realization date=testData\ORDER_REALIZATION_DATE.csv
+path to change sku to correct=testData\CORRECT_UNCORRECT_SKU.csv
+path to open and save report file=Report.xlsx
+path to add brands=testData\WHOLE_STOCK.csv
